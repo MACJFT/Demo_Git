@@ -1,1 +1,3 @@
 Ceci est un nouveau fichier de texte
+Auteur : J. F. Treyssat
+Date 24-10-2017
